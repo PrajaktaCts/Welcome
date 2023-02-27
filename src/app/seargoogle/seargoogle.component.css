@@ -1,0 +1,50 @@
+/* input{
+    width: 80%;
+    height: 30px;
+ 
+} */
+
+/* .input-field {
+    width: 80%;
+    padding: 10px;
+    outline: none;
+  }
+  .input-field:focus {
+    border: 2px solid dodgerblue;
+  }  
+  .input-container {
+    display: -ms-flexbox; 
+    display: flex;
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  .icon {
+    padding: 10px;
+    background: dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+  } */
+
+/* search{
+    padding: 5%;
+} */
+
+.logo{
+    padding-top: 10px;
+    height: 100px;
+    color:rgb(46, 169, 207);
+    background-color: beige;
+    font-size: 50px;
+}
+
+.searchbar{
+    height: 100px;
+    padding: 40px;
+}
+
+.recom{
+    outline-style: solid;
+    outline-width: 1px;
+    height: 250px;
+}
